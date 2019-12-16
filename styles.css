@@ -39,7 +39,7 @@ main {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(/images/DINO-REICHMUTH-A5RCN8626CK-UNSPLASH.jpeg);
+  background-image: url("./images/DINO-REICHMUTH-A5RCN8626CK-UNSPLASH.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center 90%;
